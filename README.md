@@ -1,3 +1,6 @@
+# dont be angry im not gonna do full busniess in this platfrom here is the navbar
+#i show how to use container properly 
+#please buy me coffy for this
 # movie-startup-template
 #and remamber im not selling this image and im not owner of this image
 #its not beautifull but it is flexible and highely cutomizble
