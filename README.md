@@ -1,12 +1,8 @@
-# dont be angry im not gonna do full busniess in this platfrom here is the navbar
-#i show how to use container properly 
-#please buy me coffy for this
-# movie-startup-template
-#and remamber im not selling this image and im not owner of this image
-#its not beautifull but it is flexible and highely cutomizble
-#you need some good knowldge of html and css
+# IT IS DUMMY PROJECTO START DEVELOPMENT ON BLOGGER
+# MY TAGET IS TO HELP YOU TO START MONEY XML WITH BLOGGER
+# IF FIND IT HELP FULL CONSIDER SOME COFFE
 
-
+#THIS PROJECT ON COFFE IS DUMMY THEME
 you can get startup for movie download template from buy me a coffe
 
 coffe buy link >>>>>      https://www.buymeacoffee.com/miratulosrash/e/145099
