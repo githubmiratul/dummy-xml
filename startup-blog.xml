@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
-<html lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
     <head>
-        <title>
-            <data:blog.title />
-        </title>
+
         <b:skin>
             <![CDATA[]]>
         </b:skin>
+
+        <!-- <b:template-skin> << layout gadget styling -->
+        <b:template-skin>
+            <![CDATA[]]>
+        </b:template-skin>
+        <!-- <b:template-skin> << layout gadget styling -->
+
     </head>
     <body>
-        <b:section id='jfiefj'></b:section>
+        <b:section id='SECTION_ID' maxwidgets='NUMBER' />
     </body>
 </html>
