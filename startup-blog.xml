@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<?xml version="1.0" encoding="UTF-8" ?>
+<html b:layoutsVersion='3' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>    
     <head>
 
-        <b:skin>
-            <![CDATA[]]>
-        </b:skin>
+        <b:skin><![CDATA[
+            
+        ]]></b:skin>
 
         <!-- <b:template-skin> << layout gadget styling -->
         <b:template-skin>
@@ -14,6 +14,6 @@
 
     </head>
     <body>
-        <b:section id='SECTION_ID' maxwidgets='NUMBER' />
+        <b:section id='SECTION_ID' maxwidgets='NUMBER'/>
     </body>
 </html>
