@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <html b:layoutsVersion='3' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
     <head>
         <tigle>
-            <data:blog.title />
+            
         </tigle>
         <!-- Meta tagg -->
-        <meta charset="UTF-8" />
-        <meta content="width=device-width, initial-scale=1, minimum-scale=1 name=viewport"/>
+        <meta charset='UTF-8'/>
+        <meta content='width=device-width, initial-scale=1, minimum-scale=1 name=viewport'/>
 
         <!-- CSS for webpage -->
-        <b:skin>
-            <![CDATA[]]>
-        </b:skin>
+        <b:skin><![CDATA[
+            
+        ]]></b:skin>
 
         <!-- <b:template-skin> << css layout gadget styling -->
         <b:template-skin>
@@ -20,7 +20,8 @@
         <!-- <b:template-skin> << layout gadget styling -->
 
     </head>
+    <b:section class='first-sectio' id='firsid-section' name='first-section'/>
     <body>
-        <b:section id='SECTION_ID' maxwidgets='NUMBER' />
+        <b:section id='SECTION_ID' maxwidgets='NUMBER'/>
     </body>
 </html>
