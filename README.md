@@ -1,9 +1,7 @@
-# IT IS DUMMY PROJECT TO START DEVELOPMENT ON BLOGGER
-# YOU CAN EARN MONEY BY CREATING AND SELLING THEME ON BLOGGER
-# I CREATE A DUMMY PROJECT IF YOU NEED IT JUST PAY FOR IT
+# i make super simple xml dummy code you can just copyfrom inspect element please check out
+# and startup-blog.xml in basic file of xml 
+# i hope you will enjoy
 
-#THIS PROJECT ON COFFEE IS DUMMY THEME
-you can get startup for movie download template from buy me a coffee
 
 coffe buy link >>>>>      https://www.buymeacoffee.com/miratulosrash/e/145099
 
